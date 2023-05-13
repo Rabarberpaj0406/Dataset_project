@@ -152,22 +152,3 @@ Stang_knapp = tk.Button(window, text="Stäng", font=("Calibri", 14, "bold"), hei
 
 # Startar huvudloopen för GUI-fönstret.
 window.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
